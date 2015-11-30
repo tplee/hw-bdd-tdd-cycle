@@ -1,0 +1,7 @@
+fake_movie:
+  id: 1
+  title: 'Fake Movie'
+  rating: 'PG'
+  description: 'Fake Movie'
+  release_date: '2015-11-01'
+  director: 'Fake Director'
